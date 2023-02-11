@@ -49,5 +49,7 @@ the two keys key1 and key2
 ## Data Structures Implemented
 
 Doubly Linked List for small to medium amount of data
+
 Hash Table for medium to large amount of data
+
 AVL Tree for large amount of data
