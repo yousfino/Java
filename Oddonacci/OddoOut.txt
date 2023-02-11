@@ -1,0 +1,56 @@
+Output trace of Trinary Oddonacci:
+
+Trinary Oddonacci of 1 is: 5                       (3300 ns)
+Trinary Oddonacci of 2 is: 105                     (12700 ns)
+Trinary Oddonacci of 3 is: 2209                    (370100 ns)
+Trinary Oddonacci of 4 is: 46499                   (953500 ns)
+Trinary Oddonacci of 5 is: 978793                  (6202200 ns)
+Trinary Oddonacci of 6 is: 20603361                (291662600 ns)
+Trinary Oddonacci of 7 is: 433695873               (1734695800 ns)
+Trinary Oddonacci of 8 is: 9129195487              (31556263400 ns)
+Trinary Oddonacci of 9 is: 192167404461            (730670951300 ns)
+
+Output trace of Linear Oddonacci:
+
+Linear Oddonacci of 5 is: 5                        (9800 ns)
+Linear Oddonacci of 10 is: 105                     (1100 ns)
+Linear Oddonacci of 15 is: 2209                    (1300 ns)
+Linear Oddonacci of 20 is: 46499                   (1500 ns)
+Linear Oddonacci of 25 is: 978793                  (1800 ns)
+Linear Oddonacci of 30 is: 20603361                (2100 ns)
+Linear Oddonacci of 35 is: 433695873               (2400 ns)
+Linear Oddonacci of 40 is: 9129195487              (3900 ns)
+Linear Oddonacci of 45 is: 192167404461            (2800 ns)
+Linear Oddonacci of 50 is: 4045078385041           (3200 ns)
+Linear Oddonacci of 55 is: 85147942685809          (13500 ns)
+Linear Oddonacci of 60 is: 1792344042191491        (3800 ns)
+Linear Oddonacci of 65 is: 37728417907092161       (5200 ns)
+Linear Oddonacci of 70 is: 794174268033812681      (4500 ns)
+Linear Oddonacci of 75 is: -1729563683050201663    (6100 ns)
+Linear Oddonacci of 80 is: 1404553489305773151     (5500 ns)
+Linear Oddonacci of 85 is: -8333254287014256043    (1300 ns)
+Linear Oddonacci of 90 is: 9144090516051710745     (1400 ns)
+Linear Oddonacci of 95 is: 629759302281926593      (1500 ns)
+Linear Oddonacci of 100 is: -4410962496751638461   (1600 ns)
+
+Table of trinary and linear call times for comparison (in nanoseconds):
+5    3300                 9800
+10   12700                1100
+15   370100               1300
+20   953500               1500
+25   6202200              1800
+30   291662600            2100
+35   1734695800           2400
+40   31556263400          3900
+45   730670951300         2800
+50   0                    3200
+55   0                    13500
+60   0                    3800
+65   0                    5200
+70   0                    4500
+75   0                    6100
+80   0                    5500
+85   0                    1300
+90   0                    1400
+95   0                    1500
+100  0                    1600
